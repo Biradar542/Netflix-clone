@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://bankole2000.github.io/netflix)
+Clone of the Netflix website as a light HTML CSS and JS excercise - 
 
 [![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://bankole2000.github.io/netflix)
 
@@ -17,7 +17,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 - HTML
 - CSS
 - Vanilla JS - ES6
-- [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
+- 
 
 ## What it does
 
@@ -84,11 +84,7 @@ I might add the other pages on the Netflix website if I ever come back to refact
 
 Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
 
-## Acknowledgments
 
-- Many thanks to [@bradtraversy](https://github.com/bradtraversy) for his awesome courses - _i will not fail you sensei_
-- Thanks to [@torvalds](https://github.com/torvalds) For Making the world a better place
-- And To anyone reading this... _You're awesome!_
 
 That being said
 _<p align="center">To the Front... to the Back... End to End... cut no slack. Making ends meet. lol</p>_
